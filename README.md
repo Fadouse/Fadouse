@@ -7,4 +7,5 @@
 - 😄 Pronouns: Ciallo～(∠・ω< )⌒☆
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Fadouse&show_icons=true&theme=dark&count_private=true)
+
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fadouse&theme=dark&layout=compact)
