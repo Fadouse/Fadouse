@@ -6,6 +6,5 @@
 - 📫 How to reach me: fadouse@duck.com
 - 😄 Pronouns: Ciallo～(∠・ω< )⌒☆
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Fadouse&show_icons=true&theme=transparent&count_private=true)
-
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fadouse&theme=transparent&layout=compact)
+| <a href="https://fadouse.github.io/"><img align="center" src="https://github-readme-stats.vercel.app/api?username=fadouse&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Fadouse's github stats" /></a> | <a href="https://fadouse.github.io/"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fadouse&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
