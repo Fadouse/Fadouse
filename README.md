@@ -11,7 +11,7 @@
 ---
 
 ## 👨‍🎓 About Me
-- **Student:** Grade 10 in China 🇨🇳  
+- **Student:** Grade 10
   Exploring the world of **AS & A Level** subjects.
 - **Passion:** Cybersecurity 🛡️  
   On a mission to learn, protect, and innovate.
