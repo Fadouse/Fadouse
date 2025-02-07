@@ -1,7 +1,22 @@
-## About Me
-- 👨‍🎓 Grade 10 Student in China
-- 🔭 Currently studying on AS & A Level subjects
-- ❤️ Love in *Java*.
-- 💬 Ask me about anything <a href="mailto:fadouse233@gmail.com">here</a> <3
+# Hey, I'm Fadouse 😎
 
-<a href="https://fadouse.github.io/"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fadouse&layout=compact&hide_border=true" /></a>
+<p align="center">
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" alt="Coding GIF" width="300"/>
+</p>
+
+---
+
+## 👨‍🎓 About Me
+- **Student:** Grade 10 in China 🇨🇳  
+  Exploring the world of **AS & A Level** subjects.
+- **Passion:** Cybersecurity 🛡️  
+  On a mission to learn, protect, and innovate.
+- **Let's Connect:**  
+  Got questions or ideas? [Email me!](mailto:fadouse233@gmail.com)
+
+---
+
+## 🚀 My Tech Stack & Languages
+<a href="https://fadouse.github.io/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fadouse&layout=compact&hide_border=true" alt="Top Languages"/>
+</a>
