@@ -1,7 +1,7 @@
-# Hey, I'm Fadouse 😎
+# Hey, I'm Fadouse 👋
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" alt="Coding GIF" width="300"/>
+  <img src="https://c.tenor.com/KQ0RCrRvX4oAAAAd/megumin-konosuba.gif" alt="めぐみんDE GIF" width="300"/>
 </p>
 
 ---
