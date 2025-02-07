@@ -1,7 +1,7 @@
 # Hey, I'm Fadouse 👋
 
 <p align="center">
-  <img src="https://media1.tenor.com/m/hAU6LtQqcz4AAAAd/megumin-blush-megumin-konosuba.gif" alt="めぐみん" style="max-width: 100%; height: auto;">
+  <img src="https://media1.tenor.com/m/hAU6LtQqcz4AAAAd/megumin-blush-megumin-konosuba.gif" alt="めぐみん" style="max-width: auto; height: auto;">
 </p>
 
 ---
