@@ -15,6 +15,7 @@
   Exploring the world of **AS & A Level** subjects.
 - **Passion:** Cybersecurity 🛡️  
   On a mission to learn, protect, and innovate.
+- **Languages:** Chinese (🇨🇳), English (🇺🇸), currently learning Japanese (🇯🇵)
 - **Let's Connect:**  
   Got questions or ideas? [Email me!](mailto:fadouse233@gmail.com)
 
