@@ -11,7 +11,7 @@
 ---
 
 ## 👨‍🎓 About Me
-- **Student:** Grade 10
+- **Student:** Grade 10  
   Exploring the world of **AS & A Level** subjects.
 - **Passion:** Cybersecurity 🛡️  
   On a mission to learn, protect, and innovate.
@@ -20,7 +20,16 @@
 
 ---
 
+## 📊 GitHub Stats
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=fadouse&show_icons=true&hide_border=true&theme=radical" alt="GitHub Stats"/>
+</a>
+
+---
+
 ## 🚀 My Tech Stack & Languages
 <a href="https://fadouse.github.io/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fadouse&layout=compact&hide_border=true" alt="Top Languages"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fadouse&layout=compact&hide_border=true&theme=radical" alt="Top Languages"/>
 </a>
+
+
