@@ -4,7 +4,7 @@
   <img 
     src="https://media1.tenor.com/m/hAU6LtQqcz4AAAAd/megumin-blush-megumin-konosuba.gif"
     alt="めぐみん"
-    style="max-width: 100%; width: 100%; height: auto;"
+    style="max-width: 200%; width: 200%; height: auto;"
   />
 </p>
 
