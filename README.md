@@ -16,11 +16,15 @@
 - 🏫 **AS & A Level Student | Grade 10**
 - 🔐 Passionate about **Cybersecurity & Ethical Hacking**
 - 🌐 **Languages:** 
-  - 🇨🇳 中文 (Native)
+  - 🇨🇳 Chinese (Native)
   - 🇺🇸 English (Basic)
-  - 🇯🇵 日本語 (Learning)
+  - 🇯🇵 Japanese (Learning)
+- 🎮 **Interests & Achievements:**
+  - I enjoy ACG (Anime, Comics, and Games) culture
+  - I am an OIer and have achieved **USACO GOLD** certification
 - 📫 **Connect with me:**  
-  [![Email](https://img.shields.io/badge/-Email%20Me!-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:fadouse233@gmail.com)
+  [![Email](https://img.shields.io/badge/-Email%20Me!-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:fadouse@turings.org)
+
 
 ---
 
