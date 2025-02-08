@@ -2,9 +2,10 @@
 
 <p align="center">
   <img 
+    width=100%
     src="https://media1.tenor.com/m/hAU6LtQqcz4AAAAd/megumin-blush-megumin-konosuba.gif"
     alt="めぐみん"
-    style="max-width: 200%; width: 200%; height: auto;"
+    style=" width: 100%; height: auto;"
   />
 </p>
 
@@ -22,15 +23,12 @@
 ---
 
 ## 📊 GitHub Stats
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=fadouse&show_icons=true&hide_border=true&theme=radical" alt="GitHub Stats"/>
-</a>
+<p align="center">
+    <img height=200px " src="https://github-readme-stats.vercel.app/api?username=fadouse&show_icons=true&hide_border=true&theme=radical"/>
+    <img height=200px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fadouse&layout=donut&hide_border=true&theme=radical"/>
+</p>
 
 ---
 
-## 🚀 My Tech Stack & Languages
-<a href="https://fadouse.github.io/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fadouse&layout=compact&hide_border=true&theme=radical" alt="Top Languages"/>
-</a>
-
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fadouse" alt="fadouse" /></a> </p>
 
