@@ -33,7 +33,7 @@
       <td align="center">
         <a href="https://github.com/fadouse">
           <img 
-            src="https://github-readme-stats.vercel.app/api?username=fadouse&show_icons=true&hide_border=true&title_color=00ff9d&icon_color=00ff9d&text_color=9f9f9f&bg_color=0d1117&include_all_commits=true&count_private=true&theme=radical" 
+            src="https://github-readme-stats.vercel.app/api?username=fadouse&show_icons=true&hide_border=true&bg_color=0d1117&include_all_commits=true&count_private=true&theme=radical" 
             alt="Fadouse's GitHub Stats" 
             height="200"
           />
@@ -43,7 +43,7 @@
       <td align="center">
         <a href="https://github.com/fadouse">
           <img 
-            src="https://github-readme-stats.vercel.app/api/top-langs/?username=fadouse&layout=compact&hide_border=true&title_color=00ff9d&text_color=9f9f9f&bg_color=0d1117&theme=radical" 
+            src="https://github-readme-stats.vercel.app/api/top-langs/?username=fadouse&layout=compact&hide_border=true&bg_color=0d1117&theme=radical" 
             alt="Top Langs" 
             height="200"
           />
@@ -64,21 +64,3 @@
   </table>
 </div>
 
----
-
-### 🏆 Achievements
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <a href="https://github-profile-trophy.vercel.app/">
-          <img 
-            src="https://github-profile-trophy.vercel.app/?username=fadouse&theme=radical&no-frame=true&margin-w=15&column=5" 
-            alt="Trophies"
-          />
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
