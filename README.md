@@ -5,7 +5,7 @@
     width=100%
     src="https://media1.tenor.com/m/hAU6LtQqcz4AAAAd/megumin-blush-megumin-konosuba.gif"
     alt="めぐみん"
-    style=" width: 100%; height: auto;"
+    style=" width: 80%; height: auto;"
   />
 </p>
 
