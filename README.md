@@ -5,7 +5,7 @@
   <img 
     src="https://media1.tenor.com/m/hAU6LtQqcz4AAAAd/megumin-blush-megumin-konosuba.gif" 
     alt="Megumin Anime GIF" 
-    width="80%" 
+    width="65%"
   />
 </p>
 
@@ -29,7 +29,7 @@
 <div align="center">
   <table>
     <tr>
-      <!-- GitHub Stats -->
+      <!-- 第一列：GitHub Stats -->
       <td align="center">
         <a href="https://github.com/fadouse">
           <img 
@@ -39,7 +39,7 @@
           />
         </a>
       </td>
-      <!-- Top Langs -->
+      <!-- 第二列：Top Langs -->
       <td align="center">
         <a href="https://github.com/fadouse">
           <img 
@@ -50,7 +50,7 @@
         </a>
       </td>
     </tr>
-    <!-- GitHub Streak -->
+    <!-- 第二行：GitHub Streak 跨两列显示 -->
     <tr>
       <td colspan="2" align="center">
         <a href="https://git.io/streak-stats">
@@ -68,9 +68,17 @@
 
 ### 🏆 Achievements
 
-<p align="center">
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=fadouse&theme=radical&no-frame=true&margin-w=15&column=-1" 
-    alt="Trophies"
-  />
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://github-profile-trophy.vercel.app/">
+          <img 
+            src="https://github-profile-trophy.vercel.app/?username=fadouse&theme=radical&no-frame=true&margin-w=15&column=5" 
+            alt="Trophies"
+          />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
