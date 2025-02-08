@@ -17,7 +17,7 @@
 - 🔐 Passionate about **Cybersecurity & Ethical Hacking**
 - 🌐 **Languages:** 
   - 🇨🇳 中文 (Native)
-  - 🇺🇸 English (Proficient)
+  - 🇺🇸 English (Basic)
   - 🇯🇵 日本語 (Learning)
 - 📫 **Connect with me:**  
   [![Email](https://img.shields.io/badge/-Email%20Me!-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:fadouse233@gmail.com)
