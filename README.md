@@ -46,6 +46,15 @@
   
 </div>
 
+## 🔒 Cybersecurity Content
+<div align="center">
+  ### AV/EDR Evasion Techniques 
+  [![Bilibili Video](https://img.shields.io/badge/Bilibili-Kaspersky-FF6699?style=for-the-badge&logo=bilibili&logoColor=white)](https://www.bilibili.com/video/BV1Vv59zFExu/)
+  [![Bilibili Video](https://img.shields.io/badge/Bilibili-WindowsDefender-FF6699?style=for-the-badge&logo=bilibili&logoColor=white)](https://www.bilibili.com/video/BV1CR59zLErb/)
+  [![Bilibili Video](https://img.shields.io/badge/Bilibili-CiscoSecureEndpoint-FF6699?style=for-the-badge&logo=bilibili&logoColor=white)](https://www.bilibili.com/video/BV1yX59z2ETM/)
+</div>
+
+
 ## 📊 GitHub Analytics
 
 <div align="center">
