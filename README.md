@@ -20,14 +20,14 @@
 <!-- <img align="right" width="300" src="https://github-readme-streak-stats.herokuapp.com/?user=fadouse&theme=tokyonight&hide_border=true" alt="fadouse's streak"/> -->
 
 - 🏫 **AS & A Level Student | Grade 10**
-- 🔐 Passionate about **Cybersecurity**
+- 🔐 Interest about **Cybersecurity**
 - 🌐 **Languages:** 
   - 🇨🇳 Chinese (Native)
   - 🇺🇸 English (Basic)
   - 🇯🇵 Japanese (Learning)
 - 🎮 **Interests & Achievements:**
   - ACG (Anime, Comics, and Games) enthusiast
-  - OIer with **USACO PLATINUM** certification
+  - OIer with **USACO PLATINUM** certification (Luckydog)
 - 📫 **Connect with me:**
   [![Email](https://img.shields.io/badge/-Email%20Me!-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fadouse@turings.org)
 
