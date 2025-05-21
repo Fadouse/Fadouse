@@ -26,7 +26,8 @@
   - 🇺🇸 English (Basic)
   - 🇯🇵 Japanese (Learning)
 - 🎮 **Interests & Achievements:**
-  - ACG (Anime, Comics, and Games) enthusiast
+  - Anime
+  - Some fps games I guess.
   - OIer with **USACO PLATINUM** certification (Luckydog)
 - 📫 **Connect with me:**
   [![Email](https://img.shields.io/badge/-Email%20Me!-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fadouse@turings.org)
@@ -39,9 +40,6 @@
   ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
   ![Java](https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
   ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
   ![ASM](https://img.shields.io/badge/-Assembly-6E4C13?style=for-the-badge&logo=assembly&logoColor=white)
   
 </div>
