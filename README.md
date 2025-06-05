@@ -16,15 +16,16 @@
   />
 </p>
 
+
 ## 🎓 About Me
 <!-- <img align="right" width="300" src="https://github-readme-streak-stats.herokuapp.com/?user=fadouse&theme=tokyonight&hide_border=true" alt="fadouse's streak"/> -->
 
-- 🏫 **AS & A Level Student | Grade 10**
+- 🏫 **AS & A Level Student | Grade 11**
 - 🔐 Interest about **Cybersecurity**
 - 🌐 **Languages:** 
-  - 🇨🇳 Chinese (Native)
-  - 🇺🇸 English (Basic)
-  - 🇯🇵 Japanese (Learning)
+  - 🇨🇳 Chinese
+  - 🇺🇸 English
+  - 🇯🇵 Japanese
 - 🎮 **Interests & Achievements:**
   - Anime
   - Some fps games I guess.
@@ -44,7 +45,7 @@
   
 </div>
 
-## 🔒 Cybersecurity Content
+## 🔒 Cybersecurity
 <div align="center">
   <h3>AV/EDR Evasion Techniques</h3>
   <a href="https://www.bilibili.com/video/BV1Vv59zFExu/"><img src="https://img.shields.io/badge/Bilibili-Kaspersky-FF6699?style=for-the-badge&logo=bilibili&logoColor=white" alt="Bilibili Video"/></a>
