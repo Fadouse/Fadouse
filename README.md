@@ -24,8 +24,8 @@
 - 🔐 Interest about **Cybersecurity**
 - 🌐 **Languages:** 
   - 🇨🇳 Chinese
-  - 🇺🇸 English
-  - 🇯🇵 Japanese
+  - 🇺🇸 English: IELTS 6.5 :( 
+  - 🇯🇵 Japanese: Learning
 - 🎮 **Interests & Achievements:**
   - Anime
   - Some fps games I guess.
