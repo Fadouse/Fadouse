@@ -75,10 +75,4 @@
   </picture>
 </div>
 
-
-## 📬 Contact
-
-* 📧 Email: <a href="mailto:fadouse@turings.org">[fadouse@turings.org](mailto:fadouse@turings.org)</a>
-* 🌏 Timezone: UTC+8
-
 ---
