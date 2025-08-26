@@ -46,6 +46,8 @@
   <a href="https://www.bilibili.com/video/BV1Vv59zFExu/"><img src="https://img.shields.io/badge/Bilibili-Kaspersky%20Endpoint%20Security-FF6699?style=flat&logo=bilibili" alt="Bilibili Kaspersky Endpoint Security" /></a>
   <a href="https://www.bilibili.com/video/BV1CR59zLErb/"><img src="https://img.shields.io/badge/Bilibili-Windows%20Defender-FF6699?style=flat&logo=bilibili" alt="Bilibili Windows Defender" /></a>
   <a href="https://www.bilibili.com/video/BV1yX59z2ETM/"><img src="https://img.shields.io/badge/Bilibili-Cisco%20Secure%20Endpoint-FF6699?style=flat&logo=bilibili" alt="Bilibili Cisco Secure Endpoint" /></a>
+  <a href="https://www.bilibili.com/video/BV1ZhjPzvEyP/"><img src="https://img.shields.io/badge/Bilibili-qihoo%20360%20total%20security-FF6699?style=flat&logo=bilibili" alt="Bilibili 360 Total Security" /></a>
+  <a href="https://www.bilibili.com/video/BV1HsjPz6Eh9/"><img src="https://img.shields.io/badge/Bilibili-deepinstinct-FF6699?style=flat&logo=bilibili" alt="Bilibili Deepinstinct" /></a>
 </div>
 
 ## 📈 Analytics
