@@ -1,106 +1,84 @@
-# Hey, I'm Fadouse 👋
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Cybersecurity+Learner;Multilingual+Developer;USACO+PLATINUM+Achiever">
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=0A0C10&center=true&vCenter=true&width=435&lines=Cybersecurity+Learner;Multilingual+Developer;USACO+PLATINUM+Achiever">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Cybersecurity+Learner;Multilingual+Developer;USACO+PLATINUM+Achiever" alt="Typing SVG" />
-  </picture>
-</div>
+<h1 align="center">Hey, I’m <strong>Fadouse</strong> 👋</h1>
 
 <p align="center">
-  <img 
-    src="https://media1.tenor.com/m/hAU6LtQqcz4AAAAd/megumin-blush-megumin-konosuba.gif" 
-    alt="Megumin Anime GIF" 
-    width="60%"
-  />
+  <em>Security‑minded student · USACO Platinum · Multilingual developer</em>
 </p>
 
+  <p align="center">
+    <img src="https://media1.tenor.com/m/hAU6LtQqcz4AAAAd/megumin-blush-megumin-konosuba.gif" alt="Anime GIF" width="60%" />
+  </p>
 
-## 🎓 About Me
-<!-- <img align="right" width="300" src="https://github-readme-streak-stats.herokuapp.com/?user=fadouse&theme=tokyonight&hide_border=true" alt="fadouse's streak"/> -->
-
-- 🏫 **AS & A Level Student | Grade 11**
-- 🔐 Interest about **Cybersecurity**
-- 🌐 **Languages:** 
-  - 🇨🇳 Chinese
-  - 🇺🇸 English: IELTS 6.5 :( 
-  - 🇯🇵 Japanese: Learning
-- 🎮 **Interests & Achievements:**
-  - Anime
-  - Some fps games I guess.
-  - OIer with **USACO PLATINUM** certification (Luckydog)
-- 📫 **Connect with me:**
-  [![Email](https://img.shields.io/badge/-Email%20Me!-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fadouse@turings.org)
-
-<br>
-
-## 💻 Tech Stack
-<div align="center">
-  
-  ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-  ![Java](https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-  ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![ASM](https://img.shields.io/badge/-Assembly-6E4C13?style=for-the-badge&logo=assembly&logoColor=white)
-  
-</div>
-
-## 🔒 Cybersecurity
-<div align="center">
-  <h3>AV/EDR Evasion Techniques</h3>
-  <a href="https://www.bilibili.com/video/BV1Vv59zFExu/"><img src="https://img.shields.io/badge/Bilibili-Kaspersky-FF6699?style=for-the-badge&logo=bilibili&logoColor=white" alt="Bilibili Video"/></a>
-  <a href="https://www.bilibili.com/video/BV1CR59zLErb/"><img src="https://img.shields.io/badge/Bilibili-WindowsDefender-FF6699?style=for-the-badge&logo=bilibili&logoColor=white" alt="Bilibili Video"/></a>
-  <a href="https://www.bilibili.com/video/BV1yX59z2ETM/"><img src="https://img.shields.io/badge/Bilibili-CiscoSecureEndpoint-FF6699?style=for-the-badge&logo=bilibili&logoColor=white" alt="Bilibili Video"/></a>
-</div>
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <a href="https://github.com/fadouse">
-    <picture>
-      <source 
-        srcset="https://github-readme-stats.vercel.app/api?username=fadouse&show_icons=true&hide_border=true&bg_color=00000000&include_all_commits=true&count_private=true&theme=radical"
-        media="(prefers-color-scheme: dark)"
-      />
-      <source
-        srcset="https://github-readme-stats.vercel.app/api?username=fadouse&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=default"
-        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-      />
-      <img src="https://github-readme-stats.vercel.app/api?username=fadouse&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=radical" height="170"/>
-    </picture>
-    <picture>
-      <source 
-        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=fadouse&layout=compact&hide_border=true&bg_color=00000000&theme=radical" 
-        media="(prefers-color-scheme: dark)"
-      />
-      <source
-        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=fadouse&layout=compact&hide_border=true&theme=default" 
-        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-      />
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fadouse&layout=compact&hide_border=true&theme=radical" height="170"/>
-    </picture>
-  </a>
-</div>
-
-<div align="center">
+<p align="center">
   <picture>
-    <source 
-      srcset="https://github-readme-activity-graph.vercel.app/graph?username=fadouse&bg_color=00000000&color=f8d847&line=ff5c8a&point=1adbce&area=true&hide_border=true" 
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-activity-graph.vercel.app/graph?username=fadouse&bg_color=ffffff&color=4c8eda&line=15c39a&point=3d58f2&area=true&hide_border=true" 
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=fadouse&bg_color=00000000&color=f8d847&line=ff5c8a&point=1adbce&area=true&hide_border=true" width="95%"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2800&pause=900&color=F7F7F7&center=true&vCenter=true&width=520&lines=Cybersecurity+%7C+Reverse+Engineering;C%2B%2B+%2F+Java+%2F+Python;USACO+PLATINUM+%E2%9C%85" />
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2800&pause=900&color=0A0C10&center=true&vCenter=true&width=520&lines=Cybersecurity+%7C+Reverse+Engineering;C%2B%2B+%2F+Java+%2F+Python;USACO+PLATINUM+%E2%9C%85" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2800&pause=900&color=F7F7F7&center=true&vCenter=true&width=520&lines=Cybersecurity+%7C+Reverse+Engineering;C%2B%2B+%2F+Java+%2F+Python;USACO+PLATINUM+%E2%9C%85;Learning+Japanese+%F0%9F%8F%AB" alt="Typing banner" />
   </picture>
-</div>
+</p>
 
-<br>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=fadouse&label=Profile+Views&color=blueviolet&style=flat" alt="Profile views" />
-</div>
+<p align="center">
+  <a href="mailto:fadouse@turings.org"><img alt="Email" src="https://img.shields.io/badge/Email-fadouse%40turings.org-0A66C2?style=flat&logo=gmail" /></a>
+  <a href="#-projects"><img alt="Projects" src="https://img.shields.io/badge/-Projects-181717?style=flat&logo=github" /></a>
+  <a href="#-contact"><img alt="Contact" src="https://img.shields.io/badge/-Contact-0096FF?style=flat" /></a>
+</p>
 
 ---
 
+## 🪧 About
+
+* AS & A Level (Grade 11). Focus: **systems, networks, and reverse engineering**.
+* Languages: **中文 / English (IELTS 6.5)** / 日本語(learning).
+* Algorithm: **USACO Platinum**; enjoy algorithms + clean C++.
+
+## 🛠️ Tech
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="32" alt="C++" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="32" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="32" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height="32" alt="Linux" />
+</p>
+
+## 🔒 Security
+
+<div align="center">
+  <a href="https://www.bilibili.com/video/BV1HVh3zwEeS/"><img src="https://img.shields.io/badge/Bilibili-BitDefender%20Gravityzone-FF6699?style=flat&logo=bilibili" alt="Bilibili BitDefender Gravityzone" /></a>
+  <a href="https://www.bilibili.com/video/BV1Vv59zFExu/"><img src="https://img.shields.io/badge/Bilibili-Kaspersky%20Endpoint%20Security-FF6699?style=flat&logo=bilibili" alt="Bilibili Kaspersky Endpoint Security" /></a>
+  <a href="https://www.bilibili.com/video/BV1CR59zLErb/"><img src="https://img.shields.io/badge/Bilibili-Windows%20Defender-FF6699?style=flat&logo=bilibili" alt="Bilibili Windows Defender" /></a>
+  <a href="https://www.bilibili.com/video/BV1yX59z2ETM/"><img src="https://img.shields.io/badge/Bilibili-Cisco%20Secure%20Endpoint-FF6699?style=flat&logo=bilibili" alt="Bilibili Cisco Secure Endpoint" /></a>
+</div>
+
+## 📈 Analytics
+
+
+<div align="center">
+  <picture>
+    <source srcset="https://github-readme-stats.vercel.app/api?username=fadouse&show_icons=true&hide_border=true&bg_color=00000000&include_all_commits=true&count_private=true&theme=radical" media="(prefers-color-scheme: dark)"/>
+    <source srcset="https://github-readme-stats.vercel.app/api?username=fadouse&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=default" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=fadouse&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=radical" height="168" alt="GitHub stats" />
+  </picture>
+
+<picture>
+<source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=fadouse&layout=compact&hide_border=true&bg_color=00000000&theme=radical" media="(prefers-color-scheme: dark)"/>
+<source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=fadouse&layout=compact&hide_border=true&theme=default" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fadouse&layout=compact&hide_border=true&theme=radical" height="168" alt="Top languages"/>
+</picture>
+
+
+</div>
+
+<div align="center">
+  <picture>
+    <source srcset="https://github-readme-activity-graph.vercel.app/graph?username=fadouse&bg_color=00000000&color=f8d847&line=ff5c8a&point=1adbce&area=true&hide_border=true" media="(prefers-color-scheme: dark)" />
+    <source srcset="https://github-readme-activity-graph.vercel.app/graph?username=fadouse&bg_color=ffffff&color=4c8eda&line=15c39a&point=3d58f2&area=true&hide_border=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=fadouse&bg_color=00000000&color=f8d847&line=ff5c8a&point=1adbce&area=true&hide_border=true" width="95%" alt="Contribution graph" />
+  </picture>
+</div>
+
+
+## 📬 Contact
+
+* 📧 Email: <a href="mailto:fadouse@turings.org">[fadouse@turings.org](mailto:fadouse@turings.org)</a>
+* 🌏 Timezone: UTC+8
+
+---
