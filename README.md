@@ -55,9 +55,9 @@
 
 <div align="center">
   <picture>
-    <source srcset="https://github-readme-stats.vercel.app/api?username=fadouse&show_icons=true&hide_border=true&bg_color=00000000&include_all_commits=true&count_private=true&theme=radical" media="(prefers-color-scheme: dark)"/>
-    <source srcset="https://github-readme-stats.vercel.app/api?username=fadouse&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=default" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
-    <img src="https://github-readme-stats.vercel.app/api?username=fadouse&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=radical" height="168" alt="GitHub stats" />
+    <source srcset="https://github-readme-stats-ruddy-five-29.vercel.app/api?username=fadouse&show_icons=true&hide_border=true&bg_color=00000000&include_all_commits=true&count_private=true&theme=radical" media="(prefers-color-scheme: dark)"/>
+    <source srcset="https://github-readme-stats-ruddy-five-29.vercel.app/api?username=fadouse&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=default" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
+    <img src="https://github-readme-stats-ruddy-five-29.vercel.app/api?username=fadouse&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=radical" height="168" alt="GitHub stats" />
   </picture>
 
 <picture>
