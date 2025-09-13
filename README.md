@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I’m <strong>Fadouse</strong> 👋</h1>
 
 <p align="center">
-  <em>Security‑minded student · USACO Platinum · Multilingual developer</em>
+  <em>Vibe coding · USACO Platinum · Multilingual developer</em>
 </p>
 
   <p align="center">
