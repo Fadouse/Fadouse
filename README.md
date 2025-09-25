@@ -27,7 +27,7 @@
 ## 🪧 About
 
 * AS & A Level (Grade 11). Focus: **systems, networks, and reverse engineering**.
-* Languages: **中文 / English (IELTS 6.5)** / 日本語(learning).
+* Languages: **中文 / English (IELTS 6.5)** / 日本語(learning/trash).
 * Algorithm: **USACO Platinum**; enjoy algorithms + clean C++.
 
 ## 🛠️ Tech
