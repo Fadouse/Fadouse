@@ -42,9 +42,6 @@
   <img src="https://img.shields.io/badge/Linux-%231d1d1f?style=for-the-badge&logo=linux&logoColor=white" height="28">
   <img src="https://img.shields.io/badge/Git-%231d1d1f?style=for-the-badge&logo=git&logoColor=white" height="28">
   <img src="https://img.shields.io/badge/Vim-%231d1d1f?style=for-the-badge&logo=vim&logoColor=white" height="28">
-  <img src="https://img.shields.io/badge/Visual_Studio-%231d1d1f?style=for-the-badge&logo=visual-studio&logoColor=white" height="28">
-  <img src="https://img.shields.io/badge/IDA_Pro-%231d1d1f?style=for-the-badge&logo=ida-pro&logoColor=white" height="28">
-  <img src="https://img.shields.io/badge/WinDbg-%231d1d1f?style=for-the-badge&logo=windows&logoColor=white" height="28">
 </div>
 
 <br><br>
