@@ -92,17 +92,22 @@
 </div>
 
 <br>
-
-<div align="center">
-  <picture>
-     <source srcset="https://github-readme-stats-ruddy-five-29.vercel.app/api?username=fadouse&show_icons=true&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=999999&icon_color=ffffff&include_all_commits=true&count_private=true" media="(prefers-color-scheme: dark)"/>
-     <img src="https://github-readme-stats-ruddy-five-29.vercel.app/api?username=fadouse&show_icons=true&hide_border=true&bg_color=00000000&title_color=000&text_color=333&icon_color=000&include_all_commits=true&count_private=true" height=auto />
-  </picture>
-  <picture>
-    <source srcset="https://github-readme-stats-ruddy-five-29.vercel.app/api/top-langs/?username=fadouse&layout=compact&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=999999" media="(prefers-color-scheme: dark)"/>
-    <img src="https://github-readme-stats-ruddy-five-29.vercel.app/api/top-langs/?username=fadouse&layout=compact&hide_border=true&bg_color=00000000&title_color=000&text_color=333" height=auto />
-  </picture>
-</div>
+<table border="0" align="center" cellspacing="0" cellpadding="0" width="100%" style="border-collapse: collapse; border: none;">
+  <tr style="border: none;">
+    <td width="58%" align="center" valign="middle" style="padding-right: 8px; border: none;">
+       <picture>
+         <source srcset="https://github-readme-stats-ruddy-five-29.vercel.app/api?username=fadouse&show_icons=true&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=999999&icon_color=ffffff&include_all_commits=true&count_private=true" media="(prefers-color-scheme: dark)"/>
+         <img src="https://github-readme-stats-ruddy-five-29.vercel.app/api?username=fadouse&show_icons=true&hide_border=true&bg_color=00000000&title_color=000&text_color=333&icon_color=000&include_all_commits=true&count_private=true" width="100%" style="max-width: 100%;" />
+       </picture>
+    </td>
+    <td width="42%" align="center" valign="middle" style="padding-left: 8px; border: none;">
+       <picture>
+        <source srcset="https://github-readme-stats-ruddy-five-29.vercel.app/api/top-langs/?username=fadouse&layout=compact&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=999999" media="(prefers-color-scheme: dark)"/>
+        <img src="https://github-readme-stats-ruddy-five-29.vercel.app/api/top-langs/?username=fadouse&layout=compact&hide_border=true&bg_color=00000000&title_color=000&text_color=333" width="100%" style="max-width: 100%;" />
+       </picture>
+    </td>
+  </tr>
+</table>
 
 <div align="center">
   <br>
