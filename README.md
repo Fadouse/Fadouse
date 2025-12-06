@@ -99,8 +99,8 @@
      <img src="https://github-readme-stats-ruddy-five-29.vercel.app/api?username=fadouse&show_icons=true&hide_border=true&bg_color=00000000&title_color=000&text_color=333&icon_color=000&include_all_commits=true&count_private=true" height="140" />
   </picture>
   <picture>
-    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=fadouse&layout=compact&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=999999" media="(prefers-color-scheme: dark)"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fadouse&layout=compact&hide_border=true&bg_color=00000000&title_color=000&text_color=333" height="140" />
+    <source srcset="https://github-readme-stats-ruddy-five-29.vercel.app/api/top-langs/?username=fadouse&layout=compact&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=999999" media="(prefers-color-scheme: dark)"/>
+    <img src="https://github-readme-stats-ruddy-five-29.vercel.app/api/top-langs/?username=fadouse&layout=compact&hide_border=true&bg_color=00000000&title_color=000&text_color=333" height="140" />
   </picture>
 </div>
 
