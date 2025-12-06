@@ -88,16 +88,15 @@
 </div>
 
 <br><br>
-
-<table border="0" align="center" cellspacing="0" cellpadding="0" width="100%" style="max-width: 900px;">
+<table border="0" align="center" cellspacing="0" cellpadding="0" width="100%">
   <tr>
-    <td width="50%" align="center" style="padding-right: 5px;">
+    <td width="50%" align="center" style="padding-right: 10px;">
        <picture>
          <source srcset="https://github-readme-stats-ruddy-five-29.vercel.app/api?username=fadouse&show_icons=true&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=999999&icon_color=ffffff&include_all_commits=true&count_private=true" media="(prefers-color-scheme: dark)"/>
          <img src="https://github-readme-stats-ruddy-five-29.vercel.app/api?username=fadouse&show_icons=true&hide_border=true&bg_color=00000000&title_color=000&text_color=333&icon_color=000&include_all_commits=true&count_private=true" width="100%" />
        </picture>
     </td>
-    <td width="50%" align="center" style="padding-left: 5px;">
+    <td width="50%" align="center" style="padding-left: 10px;">
        <picture>
         <source srcset="https://github-readme-stats-ruddy-five-29.vercel.app/api/top-langs/?username=fadouse&layout=compact&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=999999" media="(prefers-color-scheme: dark)"/>
         <img src="https://github-readme-stats-ruddy-five-29.vercel.app/api/top-langs/?username=fadouse&layout=compact&hide_border=true&bg_color=00000000&title_color=000&text_color=333" width="100%" />
