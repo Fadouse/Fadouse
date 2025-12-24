@@ -16,7 +16,7 @@
         Currently exploring the intersection of <code style="background-color: #2b2b2b; padding: 2px 6px; border-radius: 4px; color: #fff;">Rop Chain</code> and <code style="background-color: #2b2b2b; padding: 2px 6px; border-radius: 4px; color: #fff;">Evasion & Defense</code>.
       </p>
       <div style="display: flex; gap: 10px; margin-top: 20px;">
-        <a href="mailto:fadouse@turings.org"><img src="https://img.shields.io/badge/Email-fadouse%40turings.org-1d1d1f?style=flat-square&logo=gmail&logoColor=white" height="25"></a>
+        <a href="mailto:fadouse@pm.me"><img src="https://img.shields.io/badge/Email-fadouse%40pm.me-1d1d1f?style=flat-square&logo=gmail&logoColor=white" height="25"></a>
         <a href="#"><img src="https://img.shields.io/badge/Bilibili-Space-1d1d1f?style=flat-square&logo=bilibili&logoColor=white" height="25"></a>
       </div>
     </td>
