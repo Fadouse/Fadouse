@@ -54,6 +54,11 @@
     </thead>
     <tbody>
       <tr>
+        <td style="padding: 10px 15px; border-bottom: 1px solid #30363d;">🛡️ SentinelOne Complete</td>
+        <td align="center" style="padding: 10px; border-bottom: 1px solid #30363d; color: #3fb950;">Passed</td>
+        <td align="right" style="padding: 10px 15px; border-bottom: 1px solid #30363d;"><a href="https://www.bilibili.com/video//" style="text-decoration: none; color: #58a6ff;">View ↗</a></td>
+      </tr>
+      <tr>
         <td style="padding: 10px 15px; border-bottom: 1px solid #30363d;">🛡️ Qihoo 360 Total Security</td>
         <td align="center" style="padding: 10px; border-bottom: 1px solid #30363d; color: #3fb950;">Passed</td>
         <td align="right" style="padding: 10px 15px; border-bottom: 1px solid #30363d;"><a href="https://www.bilibili.com/video/BV1ZhjPzvEyP/" style="text-decoration: none; color: #58a6ff;">View ↗</a></td>
