@@ -28,8 +28,6 @@
 
 <br><br>
 
-<h3 align="center" style="letter-spacing: 3px; text-transform: uppercase; font-size: 0.9rem; color: #666; margin-bottom: 15px;">Core Arsenal</h3>
-
 <!-- <br><br> -->
 
 <!-- <div align="center">
@@ -106,6 +104,9 @@
   </tr>
 </table>
 
+<br><br>
+
+<h3 align="center" style="letter-spacing: 3px; text-transform: uppercase; font-size: 0.9rem; color: #666; margin-bottom: 15px;">Core Arsenal</h3>
 <div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 8px;">
   <img src="https://img.shields.io/badge/C++-%231d1d1f?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="26">
   <img src="https://img.shields.io/badge/Java-%231d1d1f?style=for-the-badge&logo=openjdk&logoColor=white" height="26">
