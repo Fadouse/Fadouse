@@ -25,9 +25,6 @@
     </td>
   </tr>
 </table>
-
-<br><br>
-
 <!-- <br><br> -->
 
 <!-- <div align="center">
@@ -84,8 +81,6 @@
     </tbody>
   </table>
 </div> -->
-
-<br><br>
 
 <table border="0" align="center" cellspacing="0" cellpadding="0" width="100%" style="max-width: 900px;">
   <tr>
