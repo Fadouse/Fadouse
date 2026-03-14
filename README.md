@@ -25,7 +25,8 @@
     </td>
   </tr>
 </table>
-<!-- <br><br> -->
+
+<br><br>
 
 <!-- <div align="center">
   <h3 style="letter-spacing: 3px; text-transform: uppercase; font-size: 0.9rem; color: #666; margin-bottom: 15px;">Evasion POCs</h3>
@@ -82,6 +83,19 @@
   </table>
 </div> -->
 
+<h3 align="center" style="letter-spacing: 3px; text-transform: uppercase; font-size: 0.9rem; color: #666; margin-bottom: 15px;">Core Arsenal</h3>
+<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 8px;">
+  <img src="https://img.shields.io/badge/C++-%231d1d1f?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="26">
+  <img src="https://img.shields.io/badge/Java-%231d1d1f?style=for-the-badge&logo=openjdk&logoColor=white" height="26">
+  <img src="https://img.shields.io/badge/Python-%231d1d1f?style=for-the-badge&logo=python&logoColor=white" height="26">
+  <img src="https://img.shields.io/badge/Assembly-%231d1d1f?style=for-the-badge&logo=gnu-bash&logoColor=white" height="26">
+  <img src="https://img.shields.io/badge/Linux-%231d1d1f?style=for-the-badge&logo=linux&logoColor=white" height="26">
+  <img src="https://img.shields.io/badge/Git-%231d1d1f?style=for-the-badge&logo=git&logoColor=white" height="26">
+  <img src="https://img.shields.io/badge/Vim-%231d1d1f?style=for-the-badge&logo=vim&logoColor=white" height="26">
+</div>
+
+<br><br>
+
 <table border="0" align="center" cellspacing="0" cellpadding="0" width="100%" style="max-width: 900px;">
   <tr>
     <td width="58%" align="center" style="padding-right: 5px;">
@@ -100,18 +114,6 @@
 </table>
 
 <br><br>
-
-<h3 align="center" style="letter-spacing: 3px; text-transform: uppercase; font-size: 0.9rem; color: #666; margin-bottom: 15px;">Core Arsenal</h3>
-<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 8px;">
-  <img src="https://img.shields.io/badge/C++-%231d1d1f?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="26">
-  <img src="https://img.shields.io/badge/Java-%231d1d1f?style=for-the-badge&logo=openjdk&logoColor=white" height="26">
-  <img src="https://img.shields.io/badge/Python-%231d1d1f?style=for-the-badge&logo=python&logoColor=white" height="26">
-  <img src="https://img.shields.io/badge/Assembly-%231d1d1f?style=for-the-badge&logo=gnu-bash&logoColor=white" height="26">
-  <img src="https://img.shields.io/badge/Linux-%231d1d1f?style=for-the-badge&logo=linux&logoColor=white" height="26">
-  <img src="https://img.shields.io/badge/Git-%231d1d1f?style=for-the-badge&logo=git&logoColor=white" height="26">
-  <img src="https://img.shields.io/badge/Vim-%231d1d1f?style=for-the-badge&logo=vim&logoColor=white" height="26">
-</div>
-
 
 <div align="center">
   <br>
