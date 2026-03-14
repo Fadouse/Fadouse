@@ -42,7 +42,7 @@
 
 <br><br>
 
-<div align="center">
+<!-- <div align="center">
   <h3 style="letter-spacing: 3px; text-transform: uppercase; font-size: 0.9rem; color: #666; margin-bottom: 15px;">Evasion POCs</h3>
   <table style="border-collapse: collapse; width: 100%; max-width: 900px; border: 1px solid #30363d; font-size: 0.95rem; border-radius: 6px; overflow: hidden;">
     <thead style="background-color: #161b22;">
@@ -95,7 +95,7 @@
       </tr>
     </tbody>
   </table>
-</div>
+</div> -->
 
 <br><br>
 
