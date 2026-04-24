@@ -94,6 +94,14 @@
   <img src="https://img.shields.io/badge/Vim-%231d1d1f?style=for-the-badge&logo=vim&logoColor=white" height="26">
 </div>
 
+<div align="center" style="margin-top: 20px;">
+  <a href="https://tokscale.ai/u/Fadouse">
+    <img src="https://tokscale.ai/api/embed/Fadouse/svg?view=3d" 
+         alt="Tokscale Stats"
+         style="max-width: 100%; height: auto;" />
+  </a>
+</div>
+
 <br><br>
 
 <table border="0" align="center" cellspacing="0" cellpadding="0" width="100%" style="max-width: 900px;">
