@@ -85,22 +85,26 @@
 
 <h3 align="center" style="letter-spacing: 3px; text-transform: uppercase; font-size: 0.9rem; color: #666; margin-bottom: 15px;">Core Arsenal</h3>
 <div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 8px;">
+  <img src="https://img.shields.io/badge/C-%231d1d1f?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="26">
   <img src="https://img.shields.io/badge/C++-%231d1d1f?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="26">
+  <img src="https://img.shields.io/badge/Zig-%231d1d1f?style=for-the-badge&logo=zig&logoColor=white" height="26">
+  <img src="https://img.shields.io/badge/Rust-%231d1d1f?style=for-the-badge&logo=rust&logoColor=white" height="26">
   <img src="https://img.shields.io/badge/Java-%231d1d1f?style=for-the-badge&logo=openjdk&logoColor=white" height="26">
   <img src="https://img.shields.io/badge/Python-%231d1d1f?style=for-the-badge&logo=python&logoColor=white" height="26">
   <img src="https://img.shields.io/badge/Assembly-%231d1d1f?style=for-the-badge&logo=gnu-bash&logoColor=white" height="26">
-  <img src="https://img.shields.io/badge/Linux-%231d1d1f?style=for-the-badge&logo=linux&logoColor=white" height="26">
+  <!-- <img src="https://img.shields.io/badge/Linux-%231d1d1f?style=for-the-badge&logo=linux&logoColor=white" height="26"> -->
+  <!-- <img src="https://img.shields.io/badge/Vim-%231d1d1f?style=for-the-badge&logo=vim&logoColor=white" height="26"> -->
+  <img src="https://img.shields.io/badge/TypeScript-%231d1d1f?style=for-the-badge&logo=typescript&logoColor=white" height="26">
   <img src="https://img.shields.io/badge/Git-%231d1d1f?style=for-the-badge&logo=git&logoColor=white" height="26">
-  <img src="https://img.shields.io/badge/Vim-%231d1d1f?style=for-the-badge&logo=vim&logoColor=white" height="26">
 </div>
 
-<div align="center" style="margin-top: 20px;">
+<!-- <div align="center" style="margin-top: 20px;">
   <a href="https://tokscale.ai/u/Fadouse">
     <img src="https://tokscale.ai/api/embed/Fadouse/svg?view=3d" 
          alt="Tokscale Stats"
          style="max-width: 100%; height: auto;" />
   </a>
-</div>
+</div> -->
 
 <br><br>
 
