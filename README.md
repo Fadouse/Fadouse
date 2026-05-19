@@ -10,10 +10,10 @@
 <table border="0" align="center" cellspacing="0" cellpadding="0" width="100%" style="max-width: 900px;">
   <tr>
     <td width="60%" valign="middle" style="padding-right: 25px;">
-      <h3 style="margin-bottom: 12px; border-bottom: 1px solid rgba(255,255,255,0.1); padding-bottom: 5px;"> About</h3>
+      <h3 style="margin-bottom: 12px; border-bottom: 1px solid rgba(255,255,255,0.1); padding-bottom: 5px;">About</h3>
       <p style="color: #ccc; line-height: 1.7; margin-bottom: 15px; font-size: 16px;">
         <b>Grade 11 (AS & A Level).</b> Focus on low-level systems and evasion techniques.<br>
-        Currently exploring the intersection of <code style="background-color: #2b2b2b; padding: 2px 6px; border-radius: 4px; color: #fff;">Rop Chain</code> and <code style="background-color: #2b2b2b; padding: 2px 6px; border-radius: 4px; color: #fff;">Evasion & Defense</code>.
+        Currently exploring the intersection of <code style="background-color: #2b2b2b; padding: 2px 6px; border-radius: 4px; color: #fff;">Evasion & Defense</code>.
       </p>
       <div style="display: flex; gap: 10px; margin-top: 20px;">
         <a href="mailto:fadouse@pm.me"><img src="https://img.shields.io/badge/Email-fadouse%40pm.me-1d1d1f?style=flat-square&logo=gmail&logoColor=white" height="25"></a>
@@ -127,12 +127,13 @@
 
 <br><br>
 
-<div align="center">
+<!-- <div align="center">
   <br>
   <picture>
     <source srcset="https://github-readme-activity-graph.vercel.app/graph?username=fadouse&bg_color=00000000&color=ccc&line=2ea44f&point=ffffff&area=true&hide_border=true" media="(prefers-color-scheme: dark)" />
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=fadouse&bg_color=ffffff&color=000&line=2ea44f&point=000&area=true&hide_border=true" width="100%" style="max-width: 900px;" alt="Contribution graph" />
   </picture>
-</div>
+</div> -->
 
-<hr style="border: 0; height: 1px; background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(255, 255, 255, 0.1), rgba(0, 0, 0, 0)); margin-top: 50px; margin-bottom: 30px;">
+<!-- <hr style="border: 0; height: 1px; background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(255, 255, 255, 0.1), rgba(0, 0, 0, 0)); margin-top: 50px; margin-bottom: 30px;"> -->
+<br />
