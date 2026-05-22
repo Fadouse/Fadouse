@@ -10,7 +10,7 @@
 <table border="0" align="center" cellspacing="0" cellpadding="0" width="100%" style="max-width: 900px;">
   <tr>
     <td width="60%" valign="middle" style="padding-right: 25px;">
-      <h3 style="margin-bottom: 12px; border-bottom: 1px solid rgba(255,255,255,0.1); padding-bottom: 5px;">About</h3>
+      <h3 style="margin-bottom: 12px; border-bottom: 1px solid rgba(255,255,255,0.1); padding-bottom: 5px;">About Me</h3>
       <p style="color: #ccc; line-height: 1.7; margin-bottom: 15px; font-size: 16px;">
         <b>Grade 11.</b> Focus on low-level system security and software protection.<br>
         Currently exploring the intersection of <code style="background-color: #2b2b2b; padding: 2px 6px; border-radius: 4px; color: #fff;">Evasion & Defense</code>.
