@@ -1,7 +1,7 @@
 <div align="center">
   <h1 style="font-size: 3rem; font-weight: 700; margin-bottom: 0;">Fadouse</h1>
   <p style="color: #888; font-size: 1.1rem; letter-spacing: 1px;">
-    RED TEAM · USACO PLATINUM · REVERSE ENGINEERING
+    Good luck, Have fun : )
   </p>
 </div>
 
