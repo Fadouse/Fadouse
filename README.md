@@ -23,7 +23,7 @@ rop-syscall-kit: my first project to bypass elastic defend :)
 
 # Obfuscation
 
-neko-obfuscation: an ai-native, advanced bava bytecode and jni-free native obfuscator.
+neko-obfuscation: an ai-native, advanced java bytecode and jni-free native obfuscator.
 fadouse/native-obfuscation: a fork of radioegor146/native-obfuscator with additional features.
 
 # Harness and Agent
