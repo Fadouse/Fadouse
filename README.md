@@ -19,7 +19,7 @@ Commit:      1eff23433e73d7da4f9e3529d2701e34962b161f
 # Windows Evasion
 
 rop-syscall-kit: my first project to bypass elastic defend :)
-one-real-call (release soon): call-site proxy calling compatible with intel cet, ibt, cfg, and related windows mitigations.
+one-real-call (release soon): proxy calling compatible with intel cet, ibt, cfg, and related windows mitigations.
 neko-c2 (release soon): fully w^x vm interpreter, cross-platform, extremely small (payload at few kb) c2 framework.
 
 
