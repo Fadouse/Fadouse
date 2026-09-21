@@ -1,8 +1,7 @@
 
 ```text
 YanXin Li <fadouse@pm.me>
-
-~good luck, have fun~
+17 years old
 
 Evasion and Defense
 Harness and Agentic
