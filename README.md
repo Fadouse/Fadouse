@@ -2,7 +2,7 @@
 ```text
 YanXin Li <fadouse@pm.me>
 
-Good luck, have fun~
+~good luck, have fun~
 
 Evasion and Defense
 Harness and Agentic
@@ -11,7 +11,7 @@ Harness and Agentic
 
 ufs: use u64 for directory size in ufs_last_byte
 
-fixed a 64-bit directory-size truncation in UFS that could lead to
+Fixed a 64-bit directory-size truncation in UFS that could lead to
 out-of-bounds reads and writes when parsing crafted filesystem images.
 
 Subsystem:   fs/ufs
