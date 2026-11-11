@@ -14,7 +14,7 @@ Fixed a 64-bit directory-size truncation in UFS that could lead to
 out-of-bounds reads and writes when parsing crafted filesystem images.
 
 Subsystem:   fs/ufs
-Commit:      1eff23433e73d7da4f9e3529d2701e34962b161f
+Commit:      1eff23433e73
 
 # Windows Evasion
 
