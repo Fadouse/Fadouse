@@ -9,8 +9,12 @@ Harness and Agentic
 # Linux Kernel
 
 ufs: use u64 for directory size in ufs_last_byte
-Fixed directory-size truncation that could cause out-of-bounds access.
-Commit: 1eff23433e73 | CVE-2026-99448
+
+Fixed a UFS directory-size truncation that could cause
+out-of-bounds access when parsing crafted filesystem images.
+
+Subsystem:   fs/ufs
+Commit:      1eff23433e73 | CVE-2026-99448
 
 # Windows Evasion
 
