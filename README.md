@@ -14,7 +14,7 @@ Fixed a 64-bit directory-size truncation in UFS that could lead to
 out-of-bounds reads and writes when parsing crafted filesystem images.
 
 Subsystem:   fs/ufs
-Commit:      1eff23433e73 | CVE-2026-99448
+Commit:      1eff23433e73 | cve-2026-99448 (cvss3.1 6.7)
 
 # Windows Evasion
 
